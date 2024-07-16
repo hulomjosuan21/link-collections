@@ -104,3 +104,10 @@ https://www.cssportal.com/css-clip-path-generator/
 ```
 A tool to create custom shapes for elements using the clip-path property. You can visually design shapes and get the corresponding CSS code instantly.
 ___
+
+## [UI Ball](https://uiball.com/)
+```link
+https://uiball.com/
+```
+Open-source loading animations that can be easily integrated into web projects. You can customize these animations by adjusting properties like color, speed, and size.
+___
