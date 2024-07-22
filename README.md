@@ -111,3 +111,10 @@ https://uiball.com/
 ```
 Open-source loading animations that can be easily integrated into web projects. You can customize these animations by adjusting properties like color, speed, and size.
 ___
+
+## [95 beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples/)
+```link
+https://getcssscan.com/css-box-shadow-examples
+```
+A tool provides a curated collection of 95 beautiful CSS box-shadow examples that you can easily copy and use in your projects
+___
