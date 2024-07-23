@@ -118,3 +118,24 @@ https://getcssscan.com/css-box-shadow-examples
 ```
 A tool provides a curated collection of 95 beautiful CSS box-shadow examples that you can easily copy and use in your projects
 ___
+
+## [transition.style](https://www.transition.style/)
+```link
+https://www.transition.style/
+```
+A collection of easy-to-use CSS transitions with clip-path.
+___
+
+## [Chart.js](https://www.chartjs.org/)
+```link
+https://www.chartjs.org/
+```
+A simple yet flexible JavaScript charting library that allows you to create various types of charts, such as line, bar, and pie charts, using HTML5 canvas. 
+___
+
+## [SimpleParallax](https://simpleparallax.com/)
+```link
+https://simpleparallax.com/
+```
+A lightweight JavaScript library that adds parallax animations to any image or video on your website.
+___
