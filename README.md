@@ -139,3 +139,9 @@ https://simpleparallax.com/
 ```
 A lightweight JavaScript library that adds parallax animations to any image or video on your website.
 ___
+## [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
+```link
+https://github.com/sindresorhus/modern-normalize
+```
+A CSS library that normalizes browsers’ default styles, focusing on the latest versions of Chrome, Firefox, and Safari. It aims to improve consistency and readability by setting a standard box-sizing, font, and tab size.
+___
