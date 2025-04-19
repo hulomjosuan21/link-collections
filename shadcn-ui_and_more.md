@@ -30,3 +30,9 @@ magicui.design
 ```
 Magic UI
 ______
+## [lucide](https://lucide.dev/icons/)
+```link
+https://lucide.dev/icons
+```
+Shadcn Default Icon Library
+______
