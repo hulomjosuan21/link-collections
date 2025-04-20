@@ -36,3 +36,9 @@ https://lucide.dev/icons
 ```
 Shadcn Default Icon Library
 ______
+## [More](https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file)
+```link
+https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
+```
+More
+______
