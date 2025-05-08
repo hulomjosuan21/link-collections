@@ -36,6 +36,12 @@ https://lucide.dev/icons
 ```
 Shadcn Default Icon Library
 ______
+## [Emoji Component](https://frimousse.liveblocks.io/)
+```link
+https://frimousse.liveblocks.io/
+```
+Emoji Component
+______
 ## [More](https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file)
 ```link
 https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
